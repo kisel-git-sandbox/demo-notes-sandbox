@@ -30,9 +30,11 @@ the [sub-team]s.
   - [License]
   - [Contributions]
 
+<img width="474" height="355" alt="OIP-243248052" src="https://github.com/user-attachments/assets/dcc156ee-4d18-488d-8e98-c7bcd7027953" />
 
 ## When you need to follow this process
 [When you need to follow this process]: #when-you-need-to-follow-this-process
+<img width="474" height="506" alt="OIP-179224220" src="https://github.com/user-attachments/assets/71b81850-4249-401c-8690-f1aaa0d883e5" />
 
 You need to follow this process if you intend to make "substantial" changes to
 Rust, Cargo, Crates.io, or the RFC process itself. What constitutes a
@@ -94,6 +96,7 @@ As a rule of thumb, receiving encouraging feedback from long-standing project
 developers, and particularly members of the relevant [sub-team] is a good
 indication that the RFC is worth pursuing.
 
+<img width="474" height="283" alt="OIP-3442179682" src="https://github.com/user-attachments/assets/f495915d-e880-4db1-b7ca-b2a373898709" />
 
 ## What the process is
 [What the process is]: #what-the-process-is
